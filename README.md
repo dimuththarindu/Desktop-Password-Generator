@@ -1,6 +1,6 @@
 # Desktop Password Generator
 
-This application will create random, strong passwords locally using keyboard (Ex: A, G, %, G, etc) and non-keyboard characters (Ex: ⢕, ㄉ, ♛, ⶰ, タ). 
+This application will create random, strong passwords locally using keyboard (Ex: A, G, %, G, etc) and non-keyboard characters (Ex: ⢕, ㄉ, ♛, ⶰ, タ, etc). 
 These passwords will be extremely hard to crack and impossible to guess. Therefore, it is recommended to use a password manager to store passwords. 
 Generated passwords will not be stored in anywhere. 
 
